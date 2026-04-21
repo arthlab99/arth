@@ -1,0 +1,52 @@
+{
+  "bot-account": {
+    "username": "PipkaBot",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "arthpaanchal.aternos.me",
+    "port": 33353 ,
+    "version": "1.12.1"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "" 
+    }, 
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 25,
+
+      "messages": [
+        "/login 2345678",
+        "MADE BY Pipka",
+        "DISCORD SERVER = discord.gg/Jma9yFsqdF",
+        "SERVER OWNERS pipkagamer",
+        "DONT USE XRAY ETC MODE DIRECT BAN",
+        "DON'T ABUSE WITH PLAYERS",
+        "THANKS FOR COME"
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 5000
+  }
+}
